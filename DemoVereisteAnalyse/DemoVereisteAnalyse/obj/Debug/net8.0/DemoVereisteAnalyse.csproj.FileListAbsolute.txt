@@ -1,0 +1,14 @@
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\bin\Debug\net8.0\DemoVereisteAnalyse.exe
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\bin\Debug\net8.0\DemoVereisteAnalyse.deps.json
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\bin\Debug\net8.0\DemoVereisteAnalyse.runtimeconfig.json
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\bin\Debug\net8.0\DemoVereisteAnalyse.dll
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\bin\Debug\net8.0\DemoVereisteAnalyse.pdb
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.AssemblyInfoInputs.cache
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.AssemblyInfo.cs
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.dll
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\refint\DemoVereisteAnalyse.dll
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.pdb
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\DemoVereisteAnalyse.genruntimeconfig.cache
+C:\Users\vanku\OneDrive\Bureaublad\PXL C#\DemoVereisteAnalyse\DemoVereisteAnalyse\obj\Debug\net8.0\ref\DemoVereisteAnalyse.dll
